@@ -1,1 +1,4 @@
-# 22-08-2024-Hackathon
+To view the Voting results, 
+you have to type the password.
+
+Password:  password
